@@ -1,0 +1,37 @@
+/*
+Power-CSS- 1.Inline, 2.Internal, 3.External.
+     -Selector- 1.Id, 2.Class, 3.Element/Tag.
+*/
+
+
+h3{
+	color: #008080;
+	background-color: #C0C0C0;
+	font-weight: bold;
+	text-align: center;
+	padding: 25px 0;
+	font-size: 28px;
+}
+.para3{
+	color: #008080;
+	font-size: 22px;
+	padding: 20px 0;
+}
+.para4{
+	color: rgb(0, 0, 128);
+	font-size: 22px;
+	padding: 20px 0;
+}
+.d_para{
+	background-color: rgba( 52, 152, 219,.2);
+}
+#end{
+	color: rgb(91, 44, 111);
+	background-color: rgba( 99, 57, 116,.1);
+	font-size: 22px;
+	font-weight: bold;
+	padding: 20px 0;
+	text-align: center;
+	margin: 50px 560px;
+	border-radius: 10px;
+}
